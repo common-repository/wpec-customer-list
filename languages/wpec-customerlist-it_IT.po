@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPEC Customer List\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-11-21 23:57+0100\n"
+"Last-Translator: &#604;dolab <boss@3dolab.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wpsc-admin/display-sales-logs.php:384
+msgid "User Details"
+msgstr "Dettagli Utente"
+
+msgid "Show Incomplete"
+msgstr "Mostra Incompleti"
+
+msgid "Purchase History"
+msgstr "Storico Ordini"
+
+msgid "Purchase History for"
+msgstr "Storico Ordini di"
+
+msgid "Set"
+msgstr "Imposta"
+
+msgid "Items"
+msgstr "Prodotti"
+
+msgid "Total Orders"
+msgstr "Ordini Totali"
+
+msgid "Total Items"
+msgstr "Prodotti Totali"
+
+msgid "Total Amount"
+msgstr "Importo Totale"
+
+msgid "Last Date"
+msgstr "Più recente"
+
+msgid "Regenerate Stats"
+msgstr "Ricalcola Lista"
+
+msgid "Show to Users"
+msgstr "Mostra agli Utenti"
+
+msgid "Auto-create Rewards"
+msgstr "Auto-creazione Premi"
+
+msgid "Default Reward"
+msgstr "Premio Predefinito"
+
+msgid "Orders"
+msgstr "Ordini"
+
+msgid "Used"
+msgstr "Usato"
+
+msgid "Amount"
+msgstr "Importo"
+
+msgid "Session"
+msgstr "Sessione"
+
+msgid "Users"
+msgstr "N° Utenti"
+
+msgid "Already used"
+msgstr "Già usato"
+
+msgid "Add per-User Coupons."
+msgstr "Associa Utenti"
+
+msgid "(comma separated list of User ID)"
+msgstr "(lista ID Utenti separati da virgola)"
+
+msgid "Conditions"
+msgstr "Condizioni"
+
+msgid "Add Coupon"
+msgstr "Aggiungi Premio"
+
+msgid "Customers List"
+msgstr "Lista Clienti"
+
+msgid "Add Users"
+msgstr "Aggiungi Utenti"
+
+msgid "Reward Options"
+msgstr "Impostazioni Premio"
+
+msgid "days"
+msgstr "giorni"
+
+msgid "prefix"
+msgstr "prefisso"
+
+msgid "This coupon affects each product of the cart at checkout"
+msgstr "Lo sconto si applica a tutti i prodotti del carrello"
+
+msgid "New Customer Reward"
+msgstr "Nuovo Premio Cliente"
+
+msgid "New Reward from"
+msgstr "Un Premio da"
+
+msgid "Show Coupon in User Cart"
+msgstr "Inserisci codici nel carrello"
+
+msgid "Show Score to Users"
+msgstr "Mostra punteggio agli Utenti"
+
+msgid "Customer Coupons"
+msgstr "Buoni Acquisto"
+
+msgid "Summary"
+msgstr "Riepilogo"
+
+msgid "Select coupon code"
+msgstr "Scegli Buono Acquisto"
+
+msgid "Available"
+msgstr "Disponibile"
+
+msgid "Notify Reward to User E-mail"
+msgstr "Notifica Utente via E-mail"
+
+msgid "Customers per page"
+msgstr "Clienti per pagina"
+
+msgctxt "userlog detail"
+msgid "Order more"
+msgid_plural "Orders more"
+msgstr[0] "altro Ordine"
+msgstr[1] "altri Ordini"
+
+msgctxt "userlog detail"
+msgid "Product more"
+msgid_plural "Products more"
+msgstr[0] "altro Prodotto"
+msgstr[1] "altri Prodotti"
+
+msgctxt "userlog detail"
+msgid "Item more"
+msgid_plural "Items more"
+msgstr[0] "altra Offerta"
+msgstr[1] "altre Offerte"
+
+msgid "more amount spent"
+msgstr "e raggiungi l&#039;importo"
+
+msgid "You need only"
+msgstr "Acquista ancora"
+
+msgid "to get a reward coupon"
+msgstr "per ottenere un Buono Acquisto"
+
+msgid "Congratulations! You got a reward coupon"
+msgstr "Complimenti! Hai ottenuto un Buono Acquisto"
+
